@@ -1,5 +1,5 @@
 # AutoMobile-Database
-Using the concept of C.R.U.D to create an automobile database system.
+Using the concepts of C.R.U.D to create an automobile database system.
 
 ![automobile-1](https://user-images.githubusercontent.com/55001688/64529873-554ef780-d325-11e9-88dd-fd0f2b060d90.PNG)
 
